@@ -1,0 +1,14 @@
+Superintelligence 
+
+Besides narrow AI and AGI, some consider there to be a third category known as superintelligence. For now, this is a
+completely hypothetical situation in which machines are completely self-aware, even surpassing the likes of human
+intelligence in practically every field, from science to social skills. In theory, this could be achieved through a
+single computer, a network of computers or something completely different, as long as it is conscious and has
+subjective experiences.
+
+Nick Bostrom, a founding professor and leader of Oxford’s Future of Humanity Institute, appears to have coined the term
+back in 1998, and predicted that we will have achieved superhuman artificial intelligence within the first third of the
+21st century. He went on to say that the likelihood of this happening will likely depend on how quickly neuroscience
+can better understand and replicate the human brain. Creating superintelligence by imitating the human brain, he added,
+will require not only sufficiently powerful hardware, but also an “adequate initial architecture” and a “rich flux of
+sensory input.”
