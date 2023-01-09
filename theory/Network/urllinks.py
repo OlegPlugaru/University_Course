@@ -1,4 +1,4 @@
-# To run this, you can install BeautifullSoup
+# To run this, you can install BeautifulSoup
 # https://pypi.python.org/pypi/beautifulsoup4
 
 # Or download the file
@@ -23,7 +23,7 @@ else:
     html = urllib.request.urlopen(url, context=ctx).read()
 soup = BeautifulSoup(html, 'html.parser')
 
-# Retrieve all of the anchor tags
+# Retrieve all the anchor tags
 tags = soup('a')
 for tag in tags:
-    print(tag.get('href',None))
+    print(tag.get('href', None))
