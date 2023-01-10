@@ -12,13 +12,13 @@ input = '''
             <name>Brent</name>
         </user>
     </users>
-</stuff>'''
+</stuff>
+'''
 
 stuff = ET.fromstring(input)
 lst = stuff.findall('users/user')
-print('User count', len(lst))
-
+print('User  count', len(lst))
 for item in lst:
     print('Name', item.find('name').text)
-    print('Id', item.find('id').text)
+    print('Id',item.find('id').text)
     print('Attribute', item.get("x"))
